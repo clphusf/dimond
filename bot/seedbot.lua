@@ -231,7 +231,7 @@ function create_config( )
 	"supergroup",
 	"whitelist",
 	"msg_checks"
-    },
+    
     sudo_users = {142266345},--Sudo users
     moderation = {data = 'data/moderation.json'},
     about_text = [[Teleseed v4
